@@ -8,7 +8,7 @@
 
 **RandomReddits** https://randomreddits.netlify.app/ **Github** https://github.com/min0k/randomreddits
 
-**ExtremeTrivia** https://extremetrivia.netlify.app/ **Github** https://github.com/min0k/trivia
+**ExtremeTrivia** https://extremetrivia.netlify.app/ **Github** https://github.com/min0k/extremetrivia
 
 
 

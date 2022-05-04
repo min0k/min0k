@@ -1,5 +1,5 @@
 👋 Hi, I’m @min0k.
-###### *Currently working on revising my [Portfolio](https://www.minokim.com/) - [Github](https://github.com/min0k/portfolio)
+###### *Currently working on contributing to open source projects
 
 
 # Projects

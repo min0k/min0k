@@ -4,7 +4,7 @@
 
 # Projects
 
-## WordWall https://worldwall.netlify.app/ **Github** https://github.com/min0k/wordwall
+## WordWall https://thewordwall.netlify.app/ **Github** https://github.com/min0k/wordwall
 
 **RandomReddits** https://randomreddits.netlify.app/ **Github** https://github.com/min0k/randomreddits
 

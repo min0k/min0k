@@ -1,5 +1,5 @@
 👋 Hi, I’m @min0k.
-###### *Currently working on contributing to open source projects
+###### *Currently brainstorming next project idea..
 
 
 # Projects

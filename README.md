@@ -1,5 +1,5 @@
 👋 Hi, I’m @min0k.
-###### *Currently brainstorming next project idea..
+###### *Currently working on https://github.com/min0k/mind-write
 
 
 # Projects

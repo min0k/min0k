@@ -1,5 +1,5 @@
 👋 Hi, I’m @min0k.
-###### *Currently working on https://github.com/min0k/mind-write
+###### *Currently working on https://mindwrite.netlify.app/ -- https://github.com/min0k/mind-write
 
 
 🔥 Key Skills - JavaScript React, HTML5/CSS3, Git/Github

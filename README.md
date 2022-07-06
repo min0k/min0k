@@ -8,11 +8,9 @@
 ➕ Relevant skills picked up from Information Security - Networking TCP/IP, Bash Scripting, Cloud Services (AWS/Azure)
 ### Projects
 
+Mindwrite https://mindwrite.netlify.app/ **Github** https://github.com/min0k/mindwrite
+
 WordWall https://thewordwall.netlify.app/ **Github** https://github.com/min0k/wordwall
-
-**RandomReddits** https://randomreddits.netlify.app/ **Github** https://github.com/min0k/randomreddits
-
-**ExtremeTrivia** https://extremetrivia.netlify.app/ **Github** https://github.com/min0k/extremetrivia
 
 
 

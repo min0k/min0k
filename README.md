@@ -1,9 +1,8 @@
 👋 Hi, I’m @min0k.
 
+🔥 Key Skills - JavaScript React, Svelte, HTML5/CSS3, Git/Github
 
-🔥 Key Skills - JavaScript React, HTML5/CSS3, Git/Github
-
-💪 Secondary Skills - TypeScript, Redux, React Router, MongoDB, Node.js/Express, Styled Components, MUI, Mantine UI
+💪 Secondary Skills - TypeScript, React Router, Node.js/Express, MongoDB
 
 ➕ Relevant skills picked up from Information Security - Networking TCP/IP, Bash Scripting, Cloud Services (AWS/Azure)
 ### Projects

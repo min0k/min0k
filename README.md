@@ -1,8 +1,7 @@
 👋 Hi, I’m @min0k.
 
-Mindwrite https://mindwrite.netlify.app/ **Github** https://github.com/min0k/mindwrite
+Currently working on https://github.com/min0k/mitre-difficulty-map
 
-WordWall https://thewordwall.netlify.app/ **Github** https://github.com/min0k/wordwall
 
 
 
